@@ -1,5 +1,5 @@
 streamlit
-langchain
+langchain==0.0.300
 google-genai
 faiss-cpu
 sentence-transformers
