@@ -1,6 +1,6 @@
-streamlit
 langchain==0.0.300
-google-genai
-faiss-cpu
-sentence-transformers
-pypdf
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+pypdf==3.17.4
+streamlit==1.28.2
+google-genai==0.3.2
